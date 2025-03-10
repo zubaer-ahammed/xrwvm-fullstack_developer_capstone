@@ -124,3 +124,38 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-info {
+    color: #3773D4;
+    font-size: 1em;
+}
+.contact-info h4, .contact-info p {
+    font-size: 1em;
+    margin: inherit;
+    padding: initial;
+}
+.contact-info h4 {
+    font-size: 1em;
+}
+.contact-us {
+    border-right: 3px solid;
+}
+.contact-us, .contact-info {
+    padding: 1em;
+}
+.contact-us-wrapper {
+    padding: 1em;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.contact .banner {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1em;
+}
+.card.contact {
+    border-radius: 30px;
+    box-shadow: 0px 0px 2px #000;
+    margin-bottom: 1em !important;
+}
